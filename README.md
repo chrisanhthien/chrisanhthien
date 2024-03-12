@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋!!! </h1>
-<h1 align="center">Thank you for visiting my profile </h1>
+<h2 align="center">Thank you for visiting my profile </h2>
 <h2 align="center">I am Thien (Chris)</h2>
 
 <!--
