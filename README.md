@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi there 👋!!! </h1>
 <h2 align="center">Thank you for visiting my profile </h2>
-<h2 align="center">I am Thien (Chris)</h2>
+<h2 align="center">I am Thien (Chris)
+  <p>Computer Science Technology</p>
+  <p>Bachelor of Software Engineering</p>
+</h2>
 
 <!--
 **chrisanhthien/chrisanhthien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
