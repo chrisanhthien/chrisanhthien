@@ -4,7 +4,7 @@
 <h2 align="center">I am Thien (Chris)</h2>
   <p>I graduated with a Computer Science Technology degree - DEC</p>
   <p>I'm pursuing my bachelor's degree in Software Engineering</p>
-  <p><img width="794" alt="image" src="https://github.com/user-attachments/assets/5f3c9f61-0900-434f-8f75-8388955b24dd" /> I am currenlt learning about Web, Mobile Development, and building AI models
+  <p>🌱 I’m currently learning about Web, Mobile Development, and building AI models
 </p>
 
 
