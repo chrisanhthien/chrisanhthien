@@ -5,6 +5,7 @@
   <p>I graduated with a Computer Science Technology degree - DEC</p>
   <p>I'm pursuing my bachelor's degree in Software Engineering</p>
   <p>🌱 I’m currently learning about Web, Mobile Development, and building AI models
+  <p>⚡ Fun fact: I am also a seasoned Nail Technician</p>
 </p>
 
 
